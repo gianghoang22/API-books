@@ -1,0 +1,31 @@
+{
+  "name": "api-books",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gianghoang22/API-books.git"
+  },
+  "keywords": [
+    "API",
+    "books"
+  ],
+  "author": "gianglh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gianghoang22/API-books/issues"
+  },
+  "homepage": "https://github.com/gianghoang22/API-books#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^6.10.0",
+    "morgan": "^1.10.0"
+  }
+}
